@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/breeze/compare/v2.3.0...2.x)
+## [Unreleased](https://github.com/laravel/breeze/compare/v2.3.1...2.x)
+
+## [v2.3.1](https://github.com/laravel/breeze/compare/v2.3.0...v2.3.1) - 2025-01-13
+
+* [2.x] Remove tailwind config files on api stack by [@p-nerd](https://github.com/p-nerd) in https://github.com/laravel/breeze/pull/444
+* [2.x] Remove redundant `.d.ts` inclusion from `tsconfig.json` by [@panakour](https://github.com/panakour) in https://github.com/laravel/breeze/pull/445
 
 ## [v2.3.0](https://github.com/laravel/breeze/compare/v2.2.6...v2.3.0) - 2024-12-14
 
