@@ -17,7 +17,7 @@ export default function Login({
     const { data, setData, post, processing, errors, reset } = useForm<{
         email: string;
         password: string;
-        remember: bool;
+        remember: boolean;
     }>({
         email: '',
         password: '',
